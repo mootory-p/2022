@@ -1,0 +1,687 @@
+[
+  
+  {
+    "title": "기업홈페이지",
+    "category": "web",
+    "content": "기업 홍보용 홈페이지. 반응형 코딩",
+    "images": {
+      "thumb": "/img/21_th.jpg",
+      "large": "/img/21_lg.jpg"
+    },
+    "no": "21"
+  },
+	{
+    "title": "전자지갑 앱",
+    "category": "Mobile",
+    "content": "게임머니용 가상화폐 전자지갑 앱",
+    "images": {
+      "thumb": "/img/18_th.jpg",
+      "large": "/img/18_lg.jpg"
+    },
+    "no": "18"
+  },
+ {
+    "title": "매트리스쇼핑몰 모바일제작",
+    "category": "mobile",
+    "content": "매트리스쇼핑몰 모바일제작 까페24솔루션",
+    "images": {
+      "thumb": "/img/shopvm_th.jpg",
+      "large": "/img/shopvm.jpg"
+    },
+    "no": "72"
+  },
+	{
+    "title": "암호화폐 입출금 및 호가와 매수매도 페이지",
+    "category": "mobile",
+    "content": "암호화폐 거래소 내 입출금 및 호가와 매수매도 페이지 시안 및 코딩",
+    "images": {
+      "thumb": "/img/19_th.jpg",
+      "large": "/img/19_lg.jpg"
+    },
+    "no": "19"
+  },
+	{
+    "title": "암호화폐심볼",
+    "category": "drawing",
+    "content": "암호화폐 동전 심볼 제작",
+    "images": {
+      "thumb": "/img/17_th.jpg",
+      "large": "/img/17_lg.jpg"
+    },
+    "no": "17"
+  }, 
+	{
+    "title": "모바일 메인페이지",
+    "category": "mobile",
+    "content": "기업 홍보용 홈페이지 모바일버전",
+    "images": {
+      "thumb": "/img/20_th.jpg",
+      "large": "/img/20_lg.jpg"
+    },
+    "no": "20"
+  },
+  {
+    "title": "거래소",
+    "category": "web",
+    "content": "암호화폐 거래소 매수매도페이지 시안 및 코딩",
+    "images": {
+      "thumb": "/img/16_th.jpg",
+      "large": "/img/16_lg.jpg"
+    },
+    "no": "16"
+  },
+	{
+    "title": "거래소",
+    "category": "web",
+    "content": "암호화폐 거래소 제작",
+    "images": {
+      "thumb": "/img/12_th.jpg",
+      "large": "/img/12_lg.jpg"
+    },
+    "no": "12"
+  },
+	{
+    "title": "제품상세페이지",
+    "category": "etc",
+    "content": "오트밀 상세페이지",
+    "images": {
+      "thumb": "/img/oat_th.jpg",
+      "large": "/img/oat.jpg"
+    },
+    "no": "70"
+  },
+	{
+    "title": "거래소내 매수매도 페이지",
+    "category": "web",
+    "content": "암호화폐 종목 선택 및 호가보기 거래하기 페이지 제작 및 코딩",
+    "images": {
+      "thumb": "/img/4_th.jpg",
+      "large": "/img/4_lg.jpg"
+    },
+    "no": "4"
+  },
+	{
+    "title": "암호화폐 관련 모바일 작업",
+    "category": "mobile",
+    "content": "암호화폐 거래를 위한 전자지갑 및 매수매도 페이지 제작",
+    "images": {
+      "thumb": "/img/6_th.jpg",
+      "large": "/img/6_lg.jpg"
+    },
+    "no": "6"
+  },
+	{
+    "title": "거래소",
+    "category": "web",
+    "content": "해외 거래소를 위한 시안 작업",
+    "images": {
+      "thumb": "/img/5_th.jpg",
+      "large": "/img/5_lg.jpg"
+    },
+    "no": "5"
+  },
+    
+	
+	{
+    "title": "일러스트드로잉",
+    "category": "drawing",
+    "content": "영화 리틀포레스트중 한장면 드로잉",
+    "images": {
+      "thumb": "/img/kim_th.jpg",
+      "large": "/img/kim_lg.jpg"
+    },
+    "no": "101"
+  },
+
+  
+	{
+    "title": "매트리스쇼핑몰 제작",
+    "category": "web",
+    "content": "매트리스쇼핑몰 제작",
+    "images": {
+      "thumb": "/img/shopv_th.jpg",
+      "large": "/img/shopv.jpg"
+    },
+    "no": "71"
+  },
+	{
+    "title": "Dapp 페이지 작업",
+    "category": "mobile",
+    "content": "Dapp 스토리보드 구성 및 전체 디자인시안 및 기획",
+    "images": {
+      "thumb": "/img/3_th.jpg",
+      "large": "/img/3_lg.jpg"
+    },
+    "no": "3"
+  },
+     
+   
+ 
+	{
+    "title": "토끼 일러스트",
+    "category": "drawing",
+    "content": "포토샵을 이용한 일러스트",
+    "images": {
+      "thumb": "/img/rab72_th.jpg",
+      "large": "/img/rab72.jpg"
+    },
+    "no": "82"
+  },
+	{
+    "title": "일러스트드로잉",
+    "category": "drawing",
+    "content": "뮤지션 닉 케이브 드로잉",
+    "images": {
+      "thumb": "/img/cave_th.jpg",
+      "large": "/img/cave_lg.jpg"
+    },
+    "no": "103"
+  }, 
+   
+	{
+    "title": "기업 홍보용 홈페이지",
+    "category": "web",
+    "content": "기업 홍보용 홈페이지",
+    "images": {
+      "thumb": "/img/53_th.jpg",
+      "large": "/img/53_lg.jpg"
+    },
+    "no": "53"
+  },
+  {
+    "title": "거래소",
+    "category": "web",
+    "content": "해외거래소 제작",
+    "images": {
+      "thumb": "/img/15_th.jpg",
+      "large": "/img/15_lg.jpg"
+    },
+    "no": "15"
+  },
+  {
+    "title": "마이페이지",
+    "category": "etc",
+    "content": "거래소내 마이페이지 제작",
+    "images": {
+      "thumb": "/img/14_th.jpg",
+      "large": "/img/14_lg.jpg"
+    },
+    "no": "14"
+  },
+    {
+    "title": "홍보POP",
+    "category": "etc",
+    "content": "신규메뉴 POP",
+    "images": {
+      "thumb": "/img/23_th.jpg",
+      "large": "/img/23_lg.jpg"
+    },
+    "no": "23"
+  },
+  
+    {
+    "title": "로고",
+    "category": "logo",
+    "content": "로고",
+    "images": {
+      "thumb": "/img/clogo_th.jpg",
+      "large": "/img/clogo.jpg"
+    },
+    "no": "71"
+  },
+  {
+    "title": "로그인페이지",
+    "category": "mobile",
+    "content": "Dapp용 모바일 로그인페이지",
+    "images": {
+      "thumb": "/img/9_th.jpg",
+      "large": "/img/9_lg.jpg"
+    },
+    "no": "9"
+  },
+	{
+    "title": "캠핑회사 로고",
+    "category": "logo",
+    "content": "캠핑회사 로고",
+    "images": {
+      "thumb": "/img/64_th.jpg",
+      "large": "/img/64_lg.jpg"
+    },
+    "no": "64"
+  },
+  {
+    "title": "거래소제작",
+    "category": "web",
+    "content": "거래소 홈페이지 제작",
+    "images": {
+      "thumb": "/img/2_th.jpg",
+      "large": "/img/2_lg.jpg"
+    },
+    "no": "2"
+  },
+  {
+    "title": "거래소템플릿",
+    "category": "web",
+    "content": "거래소템플릿 제작",
+    "images": {
+      "thumb": "/img/8_th.jpg",
+      "large": "/img/8_lg.jpg"
+    },
+    "no": "8"
+  },
+	
+  {
+    "title": "밧데리 쇼핑몰",
+    "category": "web",
+    "content": "델코밧데리 쇼핑몰 제작, 반응형",
+    "images": {
+      "thumb": "/img/30_th.jpg",
+      "large": "/img/30_lg.jpg"
+    },
+    "no": "30"
+  },
+    {
+    "title": "디자인회사 홈페이지",
+    "category": "web",
+    "content": "디자인회사 홍보용 홈페이지 제작",
+    "images": {
+      "thumb": "/img/35_th.jpg",
+      "large": "/img/35_lg.jpg"
+    },
+    "no": "35"
+  },
+  {
+    "title": "거래소",
+    "category": "web",
+    "content": "암호화폐용 거래소 제작",
+    "images": {
+      "thumb": "/img/7_th.jpg",
+      "large": "/img/7_lg.jpg"
+    },
+    "no": "7"
+  },
+	{
+    "title": "캐릭터",
+    "category": "drawing",
+    "content": "논술학원 안에서 사용할 캐릭터 제작",
+    "images": {
+      "thumb": "/img/26_th.jpg",
+      "large": "/img/26_lg.jpg"
+    },
+    "no": "26"
+  },
+  
+ 
+  
+ 
+    {
+    "title": "입출금페이지",
+    "category": "etc",
+    "content": "거래소 내 코인및 기축통화 입출금 페이지 제작",
+    "images": {
+      "thumb": "/img/13_th.jpg",
+      "large": "/img/13_lg.jpg"
+    },
+    "no": "13"
+  },
+  
+
+  {
+    "title": "심부름앱",
+    "category": "mobile",
+    "content": "심부름앱 제작",
+    "images": {
+      "thumb": "/img/1_th.jpg",
+      "large": "/img/1_lg.jpg"
+    },
+    "no": "1"
+  },
+	{
+    "title": "디자인회사 홍보용 홈페이지",
+    "category": "web",
+    "content": "디자인회사 홍보용 홈페이지",
+    "images": {
+      "thumb": "/img/33_th.jpg",
+      "large": "/img/33_lg.jpg"
+    },
+    "no": "33"
+  },
+  {
+    "title": "일러연습용 캐릭터제작",
+    "category": "drawing",
+    "content": "일러스트툴 연습을 위한 여자얼굴 그리기 ",
+    "images": {
+      "thumb": "/img/24_th.jpg",
+      "large": "/img/24_lg.jpg"
+    },
+    "no": "24"
+  },
+  
+
+  {
+    "title": "캐릭터",
+    "category": "drawing",
+    "content": "간단한 만화스토리를 위한 캐릭터",
+    "images": {
+      "thumb": "/img/27_th.jpg",
+      "large": "/img/27_lg.jpg"
+    },
+    "no": "27"
+  },
+  {
+    "title": "홈페이지",
+    "category": "web",
+    "content": "게스트하우스 홍보용 홈페이지",
+    "images": {
+      "thumb": "/img/28_th.jpg",
+      "large": "/img/28_lg.jpg"
+    },
+    "no": "28"
+  },
+    {
+    "title": "일러스트드로잉",
+    "category": "drawing",
+    "content": "피아니스트 브레드 멜도우 드로잉",
+    "images": {
+      "thumb": "/img/bread_th.jpg",
+      "large": "/img/bread_lg.jpg"
+    },
+    "no": "104"
+  }, 
+	
+    
+	{
+    "title": "거래소모바일 매수매도페이지",
+    "category": "mobile",
+    "content": "암호화폐 거래소 내 매수매도 모바일용 페이지 제작",
+    "images": {
+      "thumb": "/img/11_th.jpg",
+      "large": "/img/11_lg.jpg"
+    },
+    "no": "11"
+  },
+
+  
+  {
+    "title": "일러스트 캐릭터",
+    "category": "drawing",
+    "content": "일러스트 캐릭터 ",
+    "images": {
+      "thumb": "/img/34_th.jpg",
+      "large": "/img/34_lg.jpg"
+    },
+    "no": "34"
+  },
+    
+  
+  {
+    "title": "실용음악학원 홈페이지",
+    "category": "web",
+    "content": "실용음악학원 소개 및 뮤지션소개 홈페이지",
+    "images": {
+      "thumb": "/img/37_th.jpg",
+      "large": "/img/37_lg.jpg"
+    },
+    "no": "37"
+  },
+    {
+    "title": "캐릭터",
+    "category": "drawing",
+    "content": "락커 캐릭터",
+    "images": {
+      "thumb": "/img/25_th.jpg",
+      "large": "/img/25_lg.jpg"
+    },
+    "no": "25"
+  },
+  {
+    "title": "소개페이지",
+    "category": "etc",
+    "content": "솔루션 소개페이지",
+    "images": {
+      "thumb": "/img/39_th.jpg",
+      "large": "/img/39_lg.jpg"
+    },
+    "no": "39"
+  },
+  {
+    "title": "교육원 홈페이지",
+    "category": "web",
+    "content": "교육원 홈페이지",
+    "images": {
+      "thumb": "/img/42_th.jpg",
+      "large": "/img/42_lg.jpg"
+    },
+    "no": "42"
+  },
+ 
+  {
+    "title": "기업솔루션 홍보및 판매 쇼핑몰",
+    "category": "web",
+    "content": "기업솔루션 홍보및 판매 쇼핑몰",
+    "images": {
+      "thumb": "/img/51_th.jpg",
+      "large": "/img/51_lg.jpg"
+    },
+    "no": "51"
+  },
+  {
+    "title": "갤러리전시카페 홍보용 홈페이지",
+    "category": "web",
+    "content": "갤러리전시카페 홍보용 홈페이지",
+    "images": {
+      "thumb": "/img/52_th.jpg",
+      "large": "/img/52_lg.jpg"
+    },
+    "no": "52"
+  },
+	{
+    "title": "고양이 일러스트",
+    "category": "drawing",
+    "content": "포토샵을 이용한 일러스트",
+    "images": {
+      "thumb": "/img/cat_th.jpg",
+      "large": "/img/cat.jpg"
+    },
+    "no": "81"
+  },
+  {
+    "title": "실용음악학원 홈페이지",
+    "category": "web",
+    "content": "실용음악학원 홈페이지",
+    "images": {
+      "thumb": "/img/58_th.jpg",
+      "large": "/img/58_lg.jpg"
+    },
+    "no": "58"
+  },
+  
+	{
+    "title": "일러스트드로잉",
+    "category": "drawing",
+    "content": "뮤지션 데이빗 보위 드로잉",
+    "images": {
+      "thumb": "/img/david_th.jpg",
+      "large": "/img/david_lg.jpg"
+    },
+    "no": "102"
+  }, 
+  {
+    "title": "선물 컨셉 기업 로고",
+    "category": "logo",
+    "content": "선물 컨셉 기업 로고",
+    "images": {
+      "thumb": "/img/55_th.jpg",
+      "large": "/img/55_lg.jpg"
+    },
+    "no": "55"
+  },
+  {
+    "title": "선물 큐레이션 컨셉 쇼핑몰",
+    "category": "web",
+    "content": "선물 큐레이션 컨셉 쇼핑몰",
+    "images": {
+      "thumb": "/img/56_th.jpg",
+      "large": "/img/56_lg.jpg"
+    },
+    "no": "56"
+  },
+
+  
+	{
+    "title": "패키지디자인",
+    "category": "etc",
+    "content": "방수커버 패키지디자인",
+    "images": {
+      "thumb": "/img/cover_th.jpg",
+      "large": "/img/cover.jpg"
+    },
+    "no": "69"
+  },
+
+  {
+    "title": "트레이닝센터 로고",
+    "category": "logo",
+    "content": "트레이닝센터 로고",
+    "images": {
+      "thumb": "/img/63_th.jpg",
+      "large": "/img/63_lg.jpg"
+    },
+    "no": "63"
+  },
+  
+	
+  {
+    "title": "커피 전문 업체 쇼핑몰 제작",
+    "category": "web",
+    "content": "커피 전문 업체 쇼핑몰 제작",
+    "images": {
+      "thumb": "/img/45_th.jpg",
+      "large": "/img/45_lg.jpg"
+    },
+    "no": "45"
+  },
+  
+  {
+    "title": "ICO 홍보페이지",
+    "category": "web",
+    "content": "ICO를 위한 홍보페이지제작",
+    "images": {
+      "thumb": "/img/10_th.jpg",
+      "large": "/img/10_lg.jpg"
+    },
+    "no": "10"
+  },
+	{
+    "title": "커뮤니티 홈페이지",
+    "category": "web",
+    "content": "디자이너를 위한 커뮤니티용 홈페이지 제작",
+    "images": {
+      "thumb": "/img/31_th.jpg",
+      "large": "/img/31_lg.jpg"
+    },
+    "no": "31"
+  },
+  {
+    "title": "밧데리회사 쇼핑몰 모바일용",
+    "category": "mobile",
+    "content": "밧데리회사 쇼핑몰 모바일용",
+    "images": {
+      "thumb": "/img/65_th.jpg",
+      "large": "/img/65_lg.jpg"
+    },
+    "no": "65"
+  },
+    {
+    "title": "기업 홍보용 홈페이지",
+    "category": "web",
+    "content": "기업 홍보용 홈페이지",
+    "images": {
+      "thumb": "/img/48_th.jpg",
+      "large": "/img/48_lg.jpg"
+    },
+    "no": "48"
+  },
+
+  {
+    "title": "IT물류기업 홍보용 홈페이지",
+    "category": "web",
+    "content": "IT물류기업 홍보용 홈페이지",
+    "images": {
+      "thumb": "/img/67_th.jpg",
+      "large": "/img/67_lg.jpg"
+    },
+    "no": "67"
+  },
+  {
+    "title": "쇼핑몰용 상세페이지",
+    "category": "etc",
+    "content": "쇼핑몰용 상세페이지",
+    "images": {
+      "thumb": "/img/59_th.jpg",
+      "large": "/img/59_lg.jpg"
+    },
+    "no": "59"
+  },
+	{
+    "title": "학원 홈페이지",
+    "category": "web",
+    "content": "학원 홈페이지",
+    "images": {
+      "thumb": "/img/57_th.jpg",
+      "large": "/img/57_lg.jpg"
+    },
+    "no": "57"
+  },
+  {
+    "title": "선물컨셉 쇼핑몰 캐릭터",
+    "category": "drawing",
+    "content": "선물컨셉 쇼핑몰 캐릭터",
+    "images": {
+      "thumb": "/img/68_th.jpg",
+      "large": "/img/68_lg.jpg"
+    },
+    "no": "68"
+  },
+  {
+    "title": "고객상담페이지",
+    "category": "etc",
+    "content": "기업홈페이지 내 고객상담페이지",
+    "images": {
+      "thumb": "/img/22_th.jpg",
+      "large": "/img/22_lg.jpg"
+    },
+    "no": "22"
+  },
+  {
+    "title": "홈페이지",
+    "category": "web",
+    "content": "속기사 업체를 위한 홍보용 홈페이지",
+    "images": {
+      "thumb": "/img/29_th.jpg",
+      "large": "/img/29_lg.jpg"
+    },
+    "no": "29"
+  },
+  {
+    "title": "예술가를 위한 홈페이지",
+    "category": "web",
+    "content": "예술가 모임을 위한 홈페이지",
+    "images": {
+      "thumb": "/img/40_th.jpg",
+      "large": "/img/40_lg.jpg"
+    },
+    "no": "40"
+  },
+	{
+    "title": "개인트레이닝 기업을 위한 홈페이지",
+    "category": "web",
+    "content": "개인트레이닝 기업을 위한 홈페이지",
+    "images": {
+      "thumb": "/img/41_th.jpg",
+      "large": "/img/41_lg.jpg"
+    },
+    "no": "41"
+  }
+  
+]

@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>박미광 포트톨리오</title>
+	<script>
+    var userAgent = navigator.userAgent.toLowerCase();
+    if (userAgent.match('iphone')) {
+      document.write('<link rel="apple-touch-icon" href="icon.png" />')
+    } else if (userAgent.match('ipad')) {
+      document.write('<link rel="apple-touch-icon" sizes="72*72" href="icon72.png" />')
+    } else if (userAgent.match('ipod')) {
+      document.write('<link rel="apple-touch-icon" href="icon.png" />')
+    } else if (userAgent.match('android')) {
+      document.write('<link rel="shortcut icon" href="icon72.png" />')
+    }
+  </script>
+
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
+		integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://unpkg.com/swiper@8/swiper-bundle.min.css" />
+	<link rel="stylesheet" href="./assets/lightbox.css" type="text/css" media="screen" />
+	<link href="./assets/animsition.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="./assets/style.css">
+
+</head>
+
+<body>
+	<div class="wrap">
+		<header>
+			<a href="/" class="logo"><img src="./img/logo.jpg" alt="home"></a>
+			<nav>
+				<ul class="topmenu">
+					<p class="topclose"><i class="bi bi-x-lg"></i></p>
+					<li><a href="/" >Home</a></li>
+					<li><a href="./work.html" class="active">Portfolio</a></li>
+					<li><a href="/index.html#about">About</a></li>
+				</ul>
+				<div class="mtopmenu"><i class="bi bi-list"></i></div>
+				<div class="blackbg"></div>
+			</nav>
+		</header>
+
+		<section class="portfolio" id="portfolio">
+			<h1>Portfolio</h1>
+			<div class="portfolio-wrap">
+				<form class="filter-form" id="gallery-filter">
+          <span class="form-item">
+            <input type="radio" name="filter" id="filter-all" value="all" checked>
+            <label for="filter-all">All</label>
+          </span>
+          <span class="form-item">
+            <input type="radio" name="filter" id="filter-web" value="web">
+            <label for="filter-web">Web</label>
+          </span>
+          <span class="form-item">
+            <input type="radio" name="filter" id="filter-mobile" value="mobile">
+            <label for="filter-mobile">Mobile</label>
+          </span>
+          <span class="form-item">
+            <input type="radio" name="filter" id="filter-drawing" value="drawing">
+            <label for="filter-drawing">Drawing</label>
+          </span>
+          <span class="form-item">
+            <input type="radio" name="filter" id="filter-etc" value="etc">
+            <label for="filter-etc">Etc</label>
+          </span>
+        </form>
+				<div class="page-main" role="main">
+					<ul class="gallery" id="gallery">
+						<li class="grid-sizer"></li>
+						<li class="gutter-sizer"></li>
+					</ul>
+					<button class="load-more" id="load-more">더보기<span></span></button>
+				</div>
+			</div>
+		</section>
+
+		<footer>
+			<p class="left">© mootory@naver.com</p>
+			<a href="#" class="gotop"><i class="bi bi-caret-up-fill"></i>TOP</a>
+		</footer>
+	</div>
+
+
+	<script src="https://code.jquery.com/jquery-3.6.0.min.js"
+		integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js"
+		integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2"
+		crossorigin="anonymous"></script>
+	<script type="text/javascript" src="./assets/lightbox-plus-jquery.min.js"></script>
+	<script type="text/javascript" src="./assets/lightbox.min.js"></script>
+	<script src="https://unpkg.com/swiper@8/swiper-bundle.min.js"></script>
+	<script src="./assets/imagesloaded.pkgd.min.js"></script>
+  <script src="./assets/masonry.pkgd.min.js"></script>
+  <script src="./assets/portfolio.js"></script>
+	<script src="./assets/style.js"></script>
+</body>
+</html>
